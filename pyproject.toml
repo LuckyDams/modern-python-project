@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "modern-python-project"
+version = "0.1.0"
+description = "Testing modern python tools"
+authors = ["LuckyDams <luckydams@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/LuckyDams/modern-python-project.git"
+repository = "https://github.com/LuckyDams/modern-python-project.git"
+keywords = ["modern", "python", "project", "tools"]
+packages = [
+    { include = "modern_python", from = "src" },
+]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+click = "^7.0"
+requests = "^2.23.0"
+
+[tool.poetry.dev-dependencies]
+
+[tool.poetry.scripts]
+modern-python = "modern_python.console:main"
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
+
