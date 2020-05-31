@@ -2,7 +2,6 @@
 import textwrap
 
 import click
-import requests
 
 from . import __version__, wikipedia
 
@@ -20,7 +19,7 @@ from . import __version__, wikipedia
 def main(language):
     """The modern Python project."""
     data = wikipedia.random_page(language=language)
-    
+
     title = data["title"]
     extract = data["extract"]
 
