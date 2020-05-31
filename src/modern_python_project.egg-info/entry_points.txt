@@ -1,3 +1,0 @@
-[console_scripts]
-modern-python = modern_python.console:main
-
