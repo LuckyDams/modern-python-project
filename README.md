@@ -4,3 +4,4 @@
 [![PyPI](https://img.shields.io/pypi/v/modern-python-project.svg)](https://pypi.org/project/modern-python-project/)
 
 Testing modern python tools
+(Based on this [article](https://medium.com/@cjolowicz/hypermodern-python-d44485d9d769))
