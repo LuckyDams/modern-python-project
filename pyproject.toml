@@ -7,6 +7,7 @@ license = "MIT"
 readme = "README.md"
 homepage = "https://github.com/LuckyDams/modern-python-project.git"
 repository = "https://github.com/LuckyDams/modern-python-project.git"
+documentation = "https://modern-python-project.readthedocs.io"
 keywords = ["modern", "python", "project", "tools"]
 packages = [
     { include = "modern_python", from = "src" },
