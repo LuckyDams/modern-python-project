@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "modern-python-project"
-version = "0.2.0"
+version = "0.3.0"
 description = "Testing modern python tools"
 authors = ["LuckyDams <luckydams@gmail.com>"]
 license = "MIT"
