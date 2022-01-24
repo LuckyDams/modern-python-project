@@ -5,4 +5,4 @@
 [![Documentation](https://readthedocs.org/projects/modern-python-project/badge/?version=latest)](https://modern-python-project.readthedocs.io)
 
 Testing modern python tools
-(Based on this [article](https://medium.com/@cjolowicz/hypermodern-python-d44485d9d769))
+(Based on this [article](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/))
